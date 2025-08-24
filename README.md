@@ -12,3 +12,4 @@
   - Image manipulation with canva in Real time with web cam
   - Dinner client, a client to manage dinner services
   - Whatsapp message automatizacion with pyautogui
+  - Printing service custom protocol to send prints from web to remote printers
