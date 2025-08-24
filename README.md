@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @wilsongthb
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-wilsongthb/wilsongthb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @wilsongthb a developer
+- 👀 I’m interested in make automatization projects
+- 🌱 I’m currently work in some projects to private contacts
+- 💞️ I’m looking to collaborate on automatizacion and AI
+- The most part of my projects are private, but that list explaine some projects:
+  - Dental Client, a client to manage odontology clinic
+  - Some biometric attempts calculators
+  - Odoo custom client to save locations with image references
+  - Radio Service works with icecast2
+  - Implement webs on VPS
+  - Lab jobs clients register
+  - Image manipulation with canva in Real time with web cam
+  - Dinner client, a client to manage dinner services
